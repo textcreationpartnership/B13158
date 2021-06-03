@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the well ordering the making of white starch within the realm, and for restraint of the importation thereof from forreign parts.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13158</idno><idno type="EEBO-CITATION">99892711</idno>
+  <idno type="VID">186351</idno>
+  <idno type="EEBO-PROQUEST">2264198930</idno>
+  
+            <idno type="STC">ESTC R225254</idno>
+            <idno type="STC">STC 9133</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[153]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[25]</idno>
+            <idno type="STC">ESTC R225254</idno>
+            <idno type="PROQUEST">ocm99892711</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892711e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186351)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[148]; C10:2[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the well ordering the making of white starch within the realm, and for restraint of the importation thereof from forreign parts.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3, [1] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1638 [i.e. 1639].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Published date is according to Lady Day dating.</note>
+                  <note>Dated at end of text: Given at our court at VVhitehall the ninth day of February, in the fourteenth yeer of Our reign.</note>
+                  <note>Steele notation: Arms 24 and to 2) late 3) Seale 4) alwayes at.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Starch industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Import quotas --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:186351:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head type="sub">❧ A Proclamation for the well ordering the making of white Starch within the Realm, and for restraint of the Importation thereof from forreign parts.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas sundry great complaints have lately been made, and</hi> often renewed to Vs, and Our Privie Councell of the great abuses, damage and inconveniences which have and daily arise to this Our kingdome, bythe great waste, consumption and con<g ref="char:EOLhyphen"/>version of Wheat and grain of the growth thereof, fit for the food of man, into Starch, and by the anno yances occasioned thereby to Our people by the making thereof in places unfit and incon<g ref="char:EOLhyphen"/>venient for the same; Wee therefore having duly weighed the quality of the said complaints, wherein the Commonwealth is concerned, and considering that those former provisions and Proclamations made by Vs and Our Royall Father have not produced that good ef<g ref="char:EOLhyphen"/>fect as was expected; Have incorporated sundry meet persons by Letters Patents under Our great Seal of <hi>England,</hi> bearing date the six and twentieth day of December last, by the name of Master, Wardens, Assistants and Commonalty of the Society of Starch-ma<g ref="char:EOLhyphen"/>kers of <hi>London,</hi> with power and priviledge to them and their Successours to make and cause to be made in one joint stock and not otherwise, all and all manner of white Starch to put to sale, and therewith to furnish this Our Kingdome, Dominion of <hi>Wales,</hi> and town of <hi>Barwick</hi> at moderate and reasonable prices, and to search for and seize to Our use all such Starch as shall at any time or times be made for sale by any person or persons not being members of the said Company, except hee or they have served to the said Trade as Appren<g ref="char:EOLhyphen"/>tice
+<pb facs="tcp:186351:2"/>
+               <pb n="2" facs="tcp:186351:2"/>by the space of seven yeers, or have seven yeers used the said Trade as a member of the late Corporation of Starch-makers of <hi>London,</hi> and shall be admitted &amp; allowed under the common Seal of the present Society, and also to seize all such white Starch, as shall be imported in<g ref="char:EOLhyphen"/>to Our said Realm, Dominion of <hi>Wales,</hi> Port or Town of <hi>Barwick;</hi> And that no person or persons whatsoever should presume to make any Starch, other then for the wearing Linen of him, or them, and their families, as by the said Letters Patents of incorporati<g ref="char:EOLhyphen"/>on more at large appeareth.</p>
+            <p>Now to the end that all Our loving Subjects may take knowledge of Our Royall pleasure herein; Wee do hereby straitly charge &amp; command, that no person or persons whatso<g ref="char:EOLhyphen"/>ever, other then such as are or shall be members of the said Company of Starch-makers, or shall have served seven yeers to the said Trade as Apprentice, or as members of the late Corporation of Starch-makers have used that Trade seven yeers, and shall be admit<g ref="char:EOLhyphen"/>ted into the present Society (which they are freely to do upon request) shall make any white Starch for sale, or otherwise then for the wearing Linen of him, them, or their families, as is limited by the said Letters Patents; And that no person or persons whatsoever shall presume to make the same of any Wheat-flour, Meal, or other Grain of the growth of this Our kingdome, or of other materials then of Pollard and Bran onely, or of grain to be imported from forreign parts: And to the intent that this Our Royall pleasure may be effectually performed, and the foresaid abuses discovered and reformed; Wee have ap<g ref="char:EOLhyphen"/>pointed a Surveyour, who being Our sworn Officer is to take care hereof, and render Vs an account from time to time, as there shall be cause.</p>
+            <p>And for that the former promiscuous making of Starch in divers parts of this king<g ref="char:EOLhyphen"/>dome, was a speciall reason that the said Trade could not be regulated in an orderly way, but that divers ill affected persons, living in remote places did convert and consume great quantities of Wheat and Meal into Starch; Wee for the future prevention of all such a<g ref="char:EOLhyphen"/>buses, do hereby straitly charge and command, that no person or persons being members of the said Society, shall make or work, or cause to be made or wrought any white Starch to put to sale in any other parts of Our Kingdome, but onely in or neer Our Citie of <hi>London,</hi> or in such other parts and places as are or shall be allowed, and approved of by Vs, or fix or more of Our Privie Councell, nor in any other manner then by the said Letters Patents of Incorporation is directed and appointed.</p>
+            <p>And Wee likewise do hereby straitly charge and command, that no person or persons, Our naturall born Subjects, Denizens, or Strangers, or others whatsoever, do here<g ref="char:EOLhyphen"/>after import or bring, or cause to be imported or brought into Our Realm of <hi>England,</hi> Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> Port or Town of <hi>Barwick,</hi> from any the parts beyond the Seas, any white Starch whatsoever, upon pain of the forfeiture to Vs of all such white Starch, as shall be so imported, and of such further penalties and punishments as shall be meet to be inflicted upon the contemners of Our Royall Commands herein.</p>
+            <p>And for the better discovery of the said offences and offenders herein, Wee do hereby likewise authorize the said Master, Wardens, Assistants, and Commonaltie of the said
+<pb facs="tcp:186351:3"/>
+               <pb n="3" facs="tcp:186351:3"/>Society, and such as shall be in that behalf deputed by them under their common Seal (for whom they will answer) with the assistance of a Constable, or other lawfull Officer to enter into any Houses, Shops, Cellars, or other places whatsoever, and also into any Ships, Barks, or other Vessels, and there to search for, seiz and deposite in the hands of a lawfull Officer all such white Starch as shall be found to have been unduly made or imported by any person or persons, and likewise to deface, destroy and make spoyl of all Stuffe, Pollard, Bran, Meal, and other materials prepared for the making of Starch contrary to Our said Letters Patents, and Our Royall pleasure herein declared; And thereof to give notice to Our Treasurer, or Vndertreasurer for the time being, within ten dayes next after every such seizure made.</p>
+            <p>And Wee do further straitly charge and command, That all Fats, Tubs, Stoves, Pans, Cesterns, and other Vessels or Vtensels whatsoever, which shall hereafter be used or imployed for the steeping, drying, or making of any Starch contrary to Our said Let<g ref="char:EOLhyphen"/>ters Patents, and Our Royall pleasure herein declared, shall by the said Society of Starch<g ref="char:EOLhyphen"/>makers of <hi>London,</hi> or their Deputies (whom Wee do hereby in that behalf authorize, by, and with the assistance of a Constable or other lawfull Officer) be pulled up, defaced and made unserviceable, and that the persons offending therein be further proceeded against and pu<g ref="char:EOLhyphen"/>nished as shall be meet for such their contempts.</p>
+            <p>And Wee do likewise further straitly charge and command, That no person or per<g ref="char:EOLhyphen"/>sons whatsoever, do at any time hereafter presume to withstand or oppose the said Com<g ref="char:EOLhyphen"/>pany, their Searchers or Deputies in searching for white Starch unduely made or import<g ref="char:EOLhyphen"/>ed, or the Materials prepared for the making thereof contrary to the tenour hereof, or seiz<g ref="char:EOLhyphen"/>ing of the same Starch or Materials prepared, or in the defacing, demolishing, or destroying of all such Fats, Tubs, Pans, Stoves, or other Vtensels whatsoever, as shall be erected or used contrary to Our said Letters Patents.</p>
+            <p>And Our further will and pleasure is, and Wee do hereby charge and command all and singuler the Officers of Our Customs within all and every the Ports and Havens of Our said Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> and Town of <hi>Barwick,</hi> and the Creeks and members thereof; and also within Our Cinque Ports and the members thereof, That they and every of them do not onely forbear to take any Entrie or Entries, or give any Bill, or Warrant for unlading of any forreign white Starch, prohibited to be imported contra<g ref="char:EOLhyphen"/>ry to Our Royall pleasure herein declared, either by the name of Starch, or by or under any other name or title whatsoever; But do also cause stay, and seizure to be made thereof to Our use, and within ten dayes after such seizure or stay so made, to give notice of the same to the Master, Wardens and Assistants of the said Society for the time being, or their De<g ref="char:EOLhyphen"/>puties, upon pain of Our displeasure, and such other punishments as their contempts or neglects herein shall be found to deserve.</p>
+            <p>And Wee do further straitly charge and command, That no Grocer, Chapman, or o<g ref="char:EOLhyphen"/>ther person who useth to buy Starch to sell again, shall buy, utter, sell, or otherwise bar<g ref="char:EOLhyphen"/>ter, or vent any Starch which they shall know to have been made by any person or per<g ref="char:EOLhyphen"/>sons
+<pb facs="tcp:186351:4"/>
+               <pb facs="tcp:186351:4"/>who is not a known member of the said Company of Starch-makers; So as alwayes the said Company and the members thereof be ready to sell the same, at and for such reasona<g ref="char:EOLhyphen"/>ble prices, as by their Indenture under their common Seal, bearing date the six and twen<g ref="char:EOLhyphen"/>tieth day of December last past, they have undertaken, and covenanted with Vs to sell the same.</p>
+            <p>And that no person presume to sell any white Starch as a huckster or hauker from door to door, in private or in secret, or otherwise then in their own proper and open Shops, or Warehouses.</p>
+            <p>And whereas divers persons of mean and needy condition are and may happen to be imployed in the making of Starch, and preparing Materials for the making thereof by persons of better ability and estate, not under the Rule and government of the said Socie<g ref="char:EOLhyphen"/>tie; Wee do hereby therefore declare, that the Owners, Lessees, and Inhabitants of all and every the House and Houses wherein any such Starch for sale shall be made, or Ma<g ref="char:EOLhyphen"/>terials prepared for that use, by any person or persons whatsoever not by and under the rule and government of the said Society, as well as the owners of such Starch or Ma<g ref="char:EOLhyphen"/>terials; and such as by, or with their Moneys, Stock, Materials, or otherwise imploy or set them to work, shall be proceeded against, as contemners of Our Royall Commands.</p>
+            <p>And We do likewise straitly charge and command all Iustices of Peace, Mayors, She<g ref="char:EOLhyphen"/>riffes, Bayliffs, Constables, Headboroughs, Tythingmen, and all other Our Officers and Ministers; and also the Officers and Ministers of Our Court of Admiralty and Cinque Ports, and all others to whom it shall appertain, that they and every of them at all times hereafter, and from time to time without excuse or delay, be ayding and assisting to the said Society of Starch-makers of <hi>London,</hi> their Searchers, and Deputies, and to all Our Cu<g ref="char:EOLhyphen"/>stomers, Waiters, and all other person and persons in the due execution of all, or any the pre<g ref="char:EOLhyphen"/>misses, when they shall be thereunto required, as they will answer to the contrary at their perils.</p>
+            <closer>
+               <dateline>Given at Our Court at VVhitehall <date>the ninth day of February, in the fourteenth yeer of Our Reign.</date>
+               </dateline>
+               <lb/> God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1638.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
